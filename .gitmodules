@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "burnr"]
+	path = burnr
+	url = https://github.com/ltrr-arizona-edu/burnr
+	shallow = true
+	registered = true
